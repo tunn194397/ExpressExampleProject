@@ -28,7 +28,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: tunn194397/learn-github-action:lastest
+          tags: tunn194397/learn-github-action:tagname
 
 
   pull-and-up:
